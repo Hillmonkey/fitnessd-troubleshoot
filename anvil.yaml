@@ -1,0 +1,10 @@
+services: []
+package_name: Fitnessd
+allow_embedding: false
+name: Fitnessd
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox}
+metadata: {}
+startup_form: HomeForm
+native_deps: {head_html: ''}
+db_schema: []
+renamed: true
